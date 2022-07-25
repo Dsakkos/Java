@@ -1,0 +1,5 @@
+package batPkg;
+
+public class Mammal {
+
+}
