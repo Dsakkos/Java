@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Dimitri\Desktop\Java\Spring Week 2\ZooKeeperPart1\.metadata\.plugins\org.eclipse.jdt.core
+2345678610.index
+2227536651.index
+1865797976.index
