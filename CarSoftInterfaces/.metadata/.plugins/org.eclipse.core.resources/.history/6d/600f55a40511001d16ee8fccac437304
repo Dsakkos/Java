@@ -1,0 +1,5 @@
+package com.caresoftclinicapp;
+
+public interface HIPAACompliantUser {
+
+}
