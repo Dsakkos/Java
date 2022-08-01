@@ -1,0 +1,6 @@
+package com.codingdojo.fruityloops.controller;
+
+@Controller
+public class Controller {
+
+}

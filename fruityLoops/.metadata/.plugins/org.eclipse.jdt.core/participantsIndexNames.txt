@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Dimitri\Desktop\Java\SpringProjects\fruityLoops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1979133176.index
+\fruityLoops\src\main\java
+C:\Users\Dimitri\Desktop\Java\SpringProjects\fruityLoops\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1158886678.index
+\fruityLoops\src\main\java
