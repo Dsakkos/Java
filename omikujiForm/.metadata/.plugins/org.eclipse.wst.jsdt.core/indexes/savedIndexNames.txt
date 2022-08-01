@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\Dimitri\Desktop\Java\SpringProjects\omikujiForm\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1895740417.index
+2285108271.index
+568113363.index
+3406023222.index
+1508659461.index
+3948676199.index
+2118473024.index

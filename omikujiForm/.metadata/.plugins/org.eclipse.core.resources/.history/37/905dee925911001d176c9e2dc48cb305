@@ -1,0 +1,23 @@
+package com.codingdojo.omikujiform.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class FormController {
+	
+	@GetMapping("/omikuji")
+	public String form() {
+		return "form.jsp";
+	}
+	
+	@GetMapping("/omikuji/show")
+	public String showform() {
+		return "showForm.jsp";
+	}
+	
+	@PostMapping("/submitForm")
+	public String submitform() {
+		return "redirect:/omikuji/show";
+	}
+}

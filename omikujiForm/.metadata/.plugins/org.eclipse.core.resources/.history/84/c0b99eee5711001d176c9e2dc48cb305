@@ -1,0 +1,5 @@
+package com.codingdojo.omikujiform.controller;
+
+public class FormController {
+
+}
