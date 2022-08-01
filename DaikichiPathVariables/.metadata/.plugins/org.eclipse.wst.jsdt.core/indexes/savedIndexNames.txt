@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Dimitri\Desktop\Java\SpringProjects\DaikichiPathVariables\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1843223477.index
+4244518258.index
+4228840407.index
+308354937.index
+4158615141.index
+858958131.index
